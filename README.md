@@ -4,10 +4,13 @@ The Basic Calculator is a simple web application that allows users to perform ba
 # Features
 ● Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and
 division.
+
 ● User -Friendly Interface: Designed with a clear layout that includes buttons for
 digits, operators, and special functions.
+
 ● Error Handling: Displays an error message if an invalid calculation is
 attempted (e.g., division by zero).
+
 ● Responsive Design: The calculator is designed to work on various screen
 sizes.
 
@@ -30,19 +33,29 @@ display will show "Error".
 # Additional Features
 While the basic calculator currently supports standard arithmetic operations, you can
 enhance it by adding the following features:
+
 ● Square Root Functionality: Implement a button that calculates the square root
 of the displayed number.
+
 ● Percentage Calculations: Add functionality to calculate percentages.
+
 ● Memory Functions: Implement memory features such as:
+
 ● M+ (Add current display to memory)
+
 ● M- (Subtract current display from memory)
+
 ● MR (Recall memory value)
+
 ● MC (Clear memory)
 
 # Code Structure
 The project consists of the following files:
+
 ● index.html: Contains the HTML structure of the calculator.
+
 ● styles.css: Contains the CSS styles for the calculator's layout and design.
+
 ● script.js: Contains the JavaScript code that implements the calculator's
 functionality.
 
